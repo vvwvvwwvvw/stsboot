@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ko" xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<header th:insert="~{fragments::header('제','')}"></header>
+	<section>
+		<h2>제품정보 수정 양식</h2>
+		<footer th:replace="~{fragments::footer}"></footer>
+</body>
+</html>

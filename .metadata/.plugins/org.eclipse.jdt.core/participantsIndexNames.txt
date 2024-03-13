@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+/Users/namjeong-uk/Documents/workspace-spring-tool-suite-4-4.21.1.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1455124692.index
+/star/src/main/java

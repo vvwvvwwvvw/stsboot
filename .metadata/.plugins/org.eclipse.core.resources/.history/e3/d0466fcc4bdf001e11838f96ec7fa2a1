@@ -1,0 +1,5 @@
+package com.icia.star.controller;
+
+public class HomeController {
+
+}
